@@ -8,3 +8,7 @@ p{
 table, th, td {
   background-color: lightblue;
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
